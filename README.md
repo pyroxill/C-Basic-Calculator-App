@@ -1,4 +1,4 @@
-# Basic Calculator App
+# Basic Calculator App - Jayden Robertson
 
 A simple Windows Forms application built using C# that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
